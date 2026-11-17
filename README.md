@@ -8,10 +8,10 @@ simple way to show # tag lists in notepads function-list, and some sort function
 Win+r → %AppData%\Notepad++\functionList\
 put udl_markdown.xml inside
 
-edit overrideMap.xml → put inside ```<associationMap>: <association id="udl_markdown.xml" userDefinedLangName="Markdown (preinstalled)"/>```
+edit overrideMap.xml → put inside ```<associationMap>:``` ```<association id="udl_markdown.xml" userDefinedLangName="Markdown (preinstalled)"/>```
 
 ### Python sorter script:
-Plugins c PythonScript → New Script → yourchosenname
+Plugins → PythonScript → New Script → yourchosenname
 
 ### (optional), add hotkey
 Settings → Shortcut Mapper → Plugin commands → yourchosenname → modify 
