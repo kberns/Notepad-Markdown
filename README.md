@@ -2,6 +2,8 @@
 # Notepad-Markdown
 simple way to show # tag lists in notepads function-list, and some sort functions..
 
+you can save files as .md or choose the markdown manually
+
 ## Installation
 
 ### Windows
