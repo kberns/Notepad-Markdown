@@ -7,5 +7,5 @@ This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0
 You are free to share and adapt this material, including for commercial purposes, provided that you give appropriate credit, indicate any changes, and distribute adaptations under the same license.
 See the [LICENSE](LICENSE) file or [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) for details.
 
-@source        [https://github.com/krizoek/komodo-comment-toggler](https://github.com/kberns/Notepad-Markdown)
+@source        [https://github.com/krizoek/Notepad-Markdown](https://github.com/kberns/Notepad-Markdown)
 @author        Kristoffer Bernssen
