@@ -1,6 +1,11 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 # Notepad-Markdown
-simple way to show # tag lists in notepads function-list, and some sort functions..
+Simple way to show # tag lists in notepads function-list, and some sort functions..
+
+    This parser is used in Notepad++ 8.9.8.1.
+    - recognizes Markdown-headlines (# to ######).
+    - Recognizes Query, Resources og Code Example.
+    - Used for Function List Navigation.
 
 you can save files as .md or choose the markdown manually
 
